@@ -1,0 +1,53 @@
+body {
+	font-family: Arial;
+	font-size: 11pt;
+}
+
+th {
+	font-size: 16pt;	
+	background: #4169e1;
+	color: #ffffff;
+	padding: 5px;
+}
+
+td {
+	padding: 5px;
+}
+
+table {
+	border-collapse: collapse;
+	background: #9370d8
+}
+
+input {
+	border: 1px dotted #00ffff;
+	padding: 5px;
+	width: 450px;
+}
+
+textarea#TomTat {
+	border: 1px dotted #00ffff;
+	padding: 5px;
+	width: 450px;
+	height: 70px;
+}
+
+textarea#NoiDung {
+	border: 1px dotted #00ffff;
+	padding: 5px;
+	width: 450px;
+	height: 150px;
+}
+
+select {
+	border: 1px dotted #00ffff;
+	padding: 5px;
+	width: 150px;
+}
+
+button {
+	background: #4169e1;
+	color: #ffffff;
+	border: 1px solid #32cd32;
+	padding: 5px 10px;
+}
